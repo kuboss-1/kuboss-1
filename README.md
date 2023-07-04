@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuboss-1
 - 👀 I’m interested in coding, AI, hacking, drawing and designing.
-- 🌱 I’m currently learning AI and ethical hacking.
+- 🌱 I’m currently learning AI, JavaScript and ethical hacking.
 - 💞️ <33
 - 📫 <33
 
